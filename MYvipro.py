@@ -109,7 +109,7 @@ mediaMessage ="""
 ╠➩〘En@id Text (Translate En Ke ID〙
 ╠═════════════════════════
 ║             Ark
-║   ️ line.me/ti/p/~gakhnar_
+║   ️ line.me/ti/p/~akhnar_
 ╚═════════════════════════
 """
 
